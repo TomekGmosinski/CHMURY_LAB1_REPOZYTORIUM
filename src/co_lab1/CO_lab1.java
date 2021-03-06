@@ -18,7 +18,7 @@ public class CO_lab1 {
         System.out.println(System.getProperty("java.version"));
 
 	//Student1 sklonował repozytorium zdalne i dodaje zmiany do kodu
-
+        //Student 2 robi konflikt
     }
     
 }
