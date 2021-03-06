@@ -7,7 +7,6 @@ package co_lab1;
 
 /**
  *
- * @author Adam Bachorz
  */
 public class CO_lab1 {
 
@@ -16,6 +15,7 @@ public class CO_lab1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println(System.getProperty("java.version"));
     }
     
 }
