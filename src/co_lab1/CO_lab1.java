@@ -16,6 +16,9 @@ public class CO_lab1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println(System.getProperty("java.version"));
+
+	//Student1 sklonował repozytorium zdalne i dodaje zmiany do kodu
+
     }
     
 }
